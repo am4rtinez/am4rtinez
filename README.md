@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="am4rtinez's GitHub Stats" src="https://github-readme-stats-am4rtinez.vercel.app/api?username=am4rtinez&show_icons=true&hide_border=true&&theme=dark" />
+  <img align="left" alt="am4rtinez's GitHub Stats" src="https://github-readme-stats-am4rtinez.vercel.app/api?username=am4rtinez&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
 
@@ -39,7 +39,7 @@
 <details>
   <summary>:zap: Top Languages</summary>
 
-  <img align="left" alt="am4rtinez's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am4rtinez&theme=dark" />
+  <img align="left" alt="am4rtinez's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am4rtinez&hide_border=true&theme=dark" />
 
 </details>
 
