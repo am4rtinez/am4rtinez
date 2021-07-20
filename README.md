@@ -34,5 +34,15 @@
 
 </details>
 
+<br />
+
+<details>
+  <summary>:zap: Top Languages</summary>
+
+  <img align="left" alt="am4rtinez's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am4rtinez&theme=dark" />
+
+</details>
+
+
 [linkedin]: https://linkedin.com/in/am4rtinez
 
