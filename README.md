@@ -1,6 +1,6 @@
 ### Hi there, I'm Angel - aka am4rtinez 👋
 
-## I'm a Husband, Father, IT Administrator, and Noob Developer!!
+### I'm a Husband, Father, IT Administrator, and Noob Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 
@@ -38,7 +38,7 @@
 
 </details>
 
-[twitter]: https://twitter.com/mamapapaesfriki
 [youtube]: https://youtube.com/am4rtinez
+[twitter]: https://twitter.com/mamapapaesfriki
 [linkedin]: https://linkedin.com/in/am4rtinez
 
