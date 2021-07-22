@@ -1,48 +1,36 @@
 ### Hi there, I'm Angel - aka am4rtinez 👋
 
-### I'm a Husband, Father, IT Administrator, and Noob Developer!!
+I'm a Husband, Father, IT Administrator, and Noob Developer! 🤣
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-am4rtinez-000?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=b)][linkedin]
 
-<br />
+### Tecnologies:
 
-### Languages and Tools:
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=#E34F26)](#) [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#) [![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#) 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Apache NetBeans" width="26px" src="https://raw.githubusercontent.com/apache/netbeans/master/nbi/engine/native/launcher/windows/resources/icon.ico">
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[![MariaDB](https://img.shields.io/badge/-mariadb-003545?style=for-the-badge&labelColor=black&logo=mariadb&logoColor=003545)](#) [![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#) [![PostgreSQL](https://img.shields.io/badge/-postgresql-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1)](#) 
 
-<br />
-<br />
+[![git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#) [![github](https://img.shields.io/badge/-github-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#) 
+
+[![bash](https://img.shields.io/badge/-bash-4D4D4D?style=for-the-badge&labelColor=black&logo=windowsterminal&logoColor=4D4D4D)](#) [![vscode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=007ACC)](#) [![apachenetbeans](https://img.shields.io/badge/-netbeans-1B6AC6?style=for-the-badge&labelColor=black&logo=apachenetbeanside&logoColor=white)](#) 
+
+[![MS.Exchange](https://img.shields.io/badge/-MSExchange-0078D4?style=for-the-badge&labelColor=black&logo=microsoftexchange&logoColor=0078D4)](#) [![apache](https://img.shields.io/badge/-apache-D22128?style=for-the-badge&labelColor=black&logo=apache&logoColor=D22128)](#) 
+
+[![VMware](https://img.shields.io/badge/-vmware-607078?style=for-the-badge&labelColor=black&logo=vmware&logoColor=607078)](#) [![Citrix](https://img.shields.io/badge/-citrix-452170?style=for-the-badge&labelColor=black&logo=citrix&logoColor=452170)](#) [![VirtualBox](https://img.shields.io/badge/-virtualbox-183A61?style=for-the-badge&labelColor=black&logo=virtualbox&logoColor=183A61)](#) [![veeam](https://img.shields.io/badge/-veeam-00B336?style=for-the-badge&labelColor=black&logo=veeam&logoColor=00B336)](#)
+
+[![Windows](https://img.shields.io/badge/-windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6)](#) [![Debian](https://img.shields.io/badge/-debian-A81D33?style=for-the-badge&labelColor=black&logo=debian&logoColor=A81D33)](#) [![Ubuntu](https://img.shields.io/badge/-ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=E95420)](#) [![linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](#) [![apple](https://img.shields.io/badge/-macos/ios-lightgrey?style=for-the-badge&labelColor=black&logo=apple&logoColor=lightgrey)](#) [![android](https://img.shields.io/badge/-android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=3DDC84)](#)
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats<summary>
 
   <img align="left" alt="am4rtinez's GitHub Stats" src="https://github-readme-stats-am4rtinez.vercel.app/api?username=am4rtinez&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
 
-<br />
-
-<details>
-  <summary>:zap: Top Languages</summary>
-
-  <img align="left" alt="am4rtinez's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=am4rtinez&hide_border=true&theme=dark" />
-
-</details>
-
-
+<!-- Links -->
 [linkedin]: https://linkedin.com/in/am4rtinez
 
