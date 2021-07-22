@@ -1,8 +1,8 @@
 ### Hi there, I'm Angel - aka am4rtinez 👋
 
-I'm a Husband, Father, IT Administrator, and Noob Developer! 🤣
+I'm Ángel Martínez an IT Administrator on SEIB112, and a Noob Developer! 🤣
 
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning everything.
 
 ### Connect with me:
 
@@ -25,7 +25,7 @@ I'm a Husband, Father, IT Administrator, and Noob Developer! 🤣
 [![Windows](https://img.shields.io/badge/-windows-0078D6?style=for-the-badge&labelColor=black&logo=windows&logoColor=0078D6)](#) [![Debian](https://img.shields.io/badge/-debian-A81D33?style=for-the-badge&labelColor=black&logo=debian&logoColor=A81D33)](#) [![Ubuntu](https://img.shields.io/badge/-ubuntu-E95420?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=E95420)](#) [![linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](#) [![apple](https://img.shields.io/badge/-macos/ios-lightgrey?style=for-the-badge&labelColor=black&logo=apple&logoColor=lightgrey)](#) [![android](https://img.shields.io/badge/-android-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=3DDC84)](#)
 
 <details>
-  <summary>:zap: GitHub Stats<summary>
+  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="am4rtinez's GitHub Stats" src="https://github-readme-stats-am4rtinez.vercel.app/api?username=am4rtinez&show_icons=true&hide_border=true&theme=dark" />
 
@@ -33,4 +33,3 @@ I'm a Husband, Father, IT Administrator, and Noob Developer! 🤣
 
 <!-- Links -->
 [linkedin]: https://linkedin.com/in/am4rtinez
-
